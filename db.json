@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, [{"uuid":"62613962-3232-6431-2d62-3366352d3434","name":"vsku_toyota_RAV4_2012","brand":"Toyota","model":"RAV4","valid":true,"description":"testtest","timestamp":1517082526000},{"uuid":"64393865-6562-3166-2d30-3739312d3462","name":"vsku_toyota_prius_2012","brand":"Toyota","model":"Prius","valid":true,"description":"testtest","timestamp":1517082526000}] },
+    { "id": 1, "title": [{"uuid":"62613962-3232-6431-2d62-3366352d3434","name":"vsku_toyota_RAV4_2012","brand":"Toyota","model":"RAV4","valid":true,"description":"testtest","timestamp":1517082526000},{"uuid":"64393865-6562-3166-2d30-3739312d3462","name":"vsku_toyota_prius_2012","brand":"Toyota","model":"Prius","valid":true,"description":"testtest","timestamp":1517082526000}] },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
