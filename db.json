@@ -1,10 +1,4 @@
 {
-  "posts": { "app_update_data": { "version_name": "1.0.0", "store_link": "com.nvidia.shield.remote" } },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "android": { "app_update_data": { "version_name": "1.0.0", "store_link": "com.nvidia.shield.remote" } },
+  "ios": { "app_update_data": { "version_name": "1.0.0", "store_link": "itms-apps://itunes.apple.com/app/id1396124750" } }
 }
