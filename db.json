@@ -1,4 +1,4 @@
 {
   "android": { "app_update_data": { "version_name": "1.0.0", "store_link": "com.nvidia.shield.remote", "blocking_update": true, "soft_update_prompt": true } },
-  "ios": { "app_update_data": { "version_name": "1.0.0", "store_link": "itms-apps://itunes.apple.com/app/id1396124750", "blocking_update": false, "soft_update_prompt": false } } }
+  "ios": { "app_update_data": { "version_name": "1.0.0", "store_link": "itms-apps://itunes.apple.com/app/id1396124750", "blocking_update": false, "soft_update_prompt": false } }
 }
